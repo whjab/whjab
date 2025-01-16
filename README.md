@@ -1,9 +1,10 @@
 ## Pentester & Software Engineer
+
+- Passionate about solving complex problems and building useful tools.
+- I like to develop penetration testing tools and explore systems like Windows and Linux.
 - Languages: Python, Golang, Shell
-- Interests: Penetration Testing, Bug Bounty, Cybersecurity. 
-- Platforms: TryHackMe, HackTheBox
-- Tools: Developer of CLI tools for penetration testing and automation
-- Passionate about solving complex problems and building useful tools. I like to develop penetration testing tools and explore systems like Windows.
+- Tags: Penetration Testing, Bug Bounty, Cybersecurity. 
+- I'm on the platforms: TryHackMe, HackTheBox
 
 ![Python](https://img.shields.io/badge/python-0077b5?style=for-the-badge&logo=python&logoColor=white&color=black)
 ![GoLang](https://img.shields.io/badge/golang-0077b5?style=for-the-badge&logo=go&logoColor=white&color=black)
