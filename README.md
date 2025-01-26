@@ -2,7 +2,7 @@
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/yhk0)](https://tryhackme.com/p/yhk0)
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-d14836?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/@yhkdev)](https://youtube.com/yhkdev)
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yhk0&show_icons=true&theme=gotham" align="right"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yhk0&show_icons=true&theme=dark" align="right"/>
 
 - Passionate about solving complex problems and building useful tools.
 I like to develop penetration testing tools and explore systems like Windows and Linux.
