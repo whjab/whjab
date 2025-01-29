@@ -22,8 +22,8 @@ fn yhk0() -> Yhk0 {
         pronouns: vec!["he", "him"],
         age: 16,
         interests: vec![
-            "pentest", "cybersecurity", "open_source", "red_team", "white_hat",
-            "numetal", "guitar", "gym"
+            "pentest", "cybersecurity", "open_source", "red_team",
+            "white_hat", "numetal", "guitar", "gym"
         ],
         systems: vec!["windows", "kali linux", "parrot os"],
         langs: vec!["golang", "python", "rust", "c++"],
