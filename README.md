@@ -1,6 +1,7 @@
 ## yhk0 readme
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-black?style=for-the-badge&logo=tryhackme&logoColor=white&link=https://tryhackme.com/p/yhk0)](https://tryhackme.com/p/yhk0)
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-d14836?style=for-the-badge&logo=YouTube&logoColor=white&link=https://youtube.com/UC3H0MX-GhakAIebnc6CiNPQ)](https://www.youtube.com/@yhkdev)
+[![Htb Badge](https://img.shields.io/badge/-HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=white&link=https://app.hackthebox.com/yhk0)](https://app.hackthebox.com/yhk0)
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=yhk0&show_icons=true&theme=dark" align="right"/>
 
