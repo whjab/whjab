@@ -7,7 +7,7 @@
 
 - Passionate about solving complex problems and building useful tools.
 I like to develop penetration testing tools and explore systems like Windows and Linux.
-- Languages: Python, Golang, C++, Shell, Rust
+- Languages: Python, Golang, Shell
 - Tags: Penetration Testing, Bug Bounty, Cybersecurity. 
 - I'm on the platforms: TryHackMe, HackTheBox
 
